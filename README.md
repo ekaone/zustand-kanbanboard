@@ -1,0 +1,1 @@
+## Simple Kanban Board with Zustand state management
